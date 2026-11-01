@@ -1,0 +1,20 @@
+{
+  "project": "Francis Lean — portfólio musical",
+  "status": "design visual aprovado / entrada para implementação",
+  "prototipo": "prototipo-aprovado/index.html",
+  "referencia_visual": "referencias/IDENTIDADE-VISUAL-APROVADA.png",
+  "fotos_originais": [
+    "midia/fotos-originais/img_principal.JPEG",
+    "midia/fotos-originais/img_secundaria1.jpeg",
+    "midia/fotos-originais/img_secundaria2.jpeg"
+  ],
+  "arquivos_editoriais": [
+    "conteudo/conteudo-editorial.md",
+    "conteudo/quem-sou-eu-aprovado.md",
+    "conteudo/conteudo-original.md",
+    "conteudo/videos-e-lancamentos.md",
+    "conteudo/contato.md"
+  ],
+  "deploy_previsto": "Cloudflare Pages / Vite dist",
+  "uso_do_instagram": "referencia visual; imagem de captura nao deve ser publicada no site"
+}
